@@ -1,8 +1,7 @@
 ## Актёры (Roles):
   1. гость (guest),
   2. пользователь (user),
-  3. оператор (operator),
-  4. администратор (administrator)
+  3. администратор (administrator)
 
 ## Сущности (Entities):
   1. пользователь (user),
